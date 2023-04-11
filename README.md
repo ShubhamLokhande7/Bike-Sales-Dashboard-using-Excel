@@ -10,9 +10,9 @@
  3. cleaning handling columns values 
  4. cleaning currency data
  5. converting age column in to age bracket. I used nested if statement for this operation
-    25 to 30 age grouped as "Adolescent"
-    30 to 60 age grouped as "Middle age"
-    60 to 89 age grouped as "Old"
+    - 25 to 30 age grouped as "Adolescent".
+    - 30 to 60 age grouped as "Middle age".
+    - 60 to 89 age grouped as "Old".
 6. create multiple pivot table to get insight of the data set 
 7. create interactive dashbard using slicer 
     
