@@ -1,7 +1,7 @@
 # Bike Sales Dashboard 
 
 # Project Information
-  Objective of the project is to cerate interactive dashboard using excel. Dataset consist of 1027 rows and 13 rows. Dataset required data cleaning operation.
+  Objective of the project is to cerate interactive dashboard using excel. Dataset consist of 1027 rows and 13 columns. Dataset required data cleaning operation.
   I also create pivot table to summarise the complex data to get overview of dataset. After I bulid a interactive dashboard to get insight of Bike sales.
   
  # operation involved 
